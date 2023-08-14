@@ -16,14 +16,12 @@
 
  ⚡ Fun fact **Humans are the only mammals that enjoy spicy foods**
  
- </div>
-
 <div align="center"> 
   <a href="mailto:mevinab1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/mevin-moncy" target="_blank">
-    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mevin-moncy/){:target="_blank"}
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://MevinMoncy.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -35,7 +33,7 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,javascript,java,esclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=github,python,javascript,java" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git" />
 </div>
 
