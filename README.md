@@ -40,18 +40,6 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MevinMoncy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<!-- GitHub Stats -->
-![MevinMoncy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MevinMoncy&theme=react&show_icons=true&hide_border=false)
-
-</div>
-
-<br/><br/>
-<hr/>
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin+or+Email+me!;I'm+always+down+to+collab+:)">
 </h3>
