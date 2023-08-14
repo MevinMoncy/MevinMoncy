@@ -44,9 +44,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=MevinMoncy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
- ![MevinMoncy's Stats](https://github-readme-stats.vercel.app/api?username=MevinMoncy&theme=react&show_icons=true&hide_border=false&count_private=true)
-  <br/>
-  ![MevinMoncy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MevinMoncy&theme=react&show_icons=true&hide_border=false&layout=compact)
+<!-- GitHub Stats -->
+![MevinMoncy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MevinMoncy&theme=react&show_icons=true&hide_border=false)
+
 </div>
 
 <br/><br/>
